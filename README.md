@@ -67,7 +67,7 @@ cd Data-Analyzer-and-Transformer
 3. Run the program
 
 ```bash
-python main.py
+python Functional_treat.py
 ```
 
 ---
